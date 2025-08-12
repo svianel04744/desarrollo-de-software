@@ -1,5 +1,5 @@
 # Actividad 2 - Feria Empresarial - Programación Orientada por Objetos básica en Java
-Esta carpeta contiene el codigo escrito para la Actividad #2 de la Guía #1, Feria Empresarial. Este contiene los archivos `.java` necesarios para ser importado a cualquier IDE.
+Esta carpeta contiene el codigo escrito para la Actividad #2 de la Guía #1, Feria Empresarial. Este contiene los archivos `.java` necesarios para ser importado a cualquier IDE ademas de un archivo ejecutable.
 
 ## Ejecución
 En la terminal de su elección, dirijase a la ubicación del proyecto en su sistema y ejecute el comando:

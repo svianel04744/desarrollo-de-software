@@ -1,12 +1,6 @@
 # Desarrollo de Software - UEAN - Guía #1
 
-En esta carpeta se encuentra el desarrollo de la Guía #1, se incluyen 3 secciones, una para cada actividad.
-
-## Actividad 1 - Diagramas UML
-En esta actividad se realizaron 2 diagramas de clases UML:
-1. Feria Empresarial
-2. Parqueadero
-
-## Actividad 2 - Feria Empresarial - Programación Orientada por Objetos básica en Java
-
-## Actividad 3 - Parqueadero - Resolución de problemas usando herencia
+En esta carpeta se encuentra el desarrollo de la Guía #1, se crearon 3 secciones, una para cada actividad, las cuales incluye:
+1. Actividad 1 - Diagramas UML
+2. Actividad 2 - Feria Empresarial - Programación Orientada por Objetos básica en Java
+3. Actividad 3 - Parqueadero - Resolución de problemas usando herencia
