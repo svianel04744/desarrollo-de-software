@@ -7,6 +7,6 @@ En esta actividad se realizaron 2 diagramas de clases UML:
 1. Feria Empresarial
 2. Parqueadero
 
-## Actividad 2 - Feria Empresarial
+## Actividad 2 - Feria Empresarial - Programación Orientada por Objetos básica en Java
 
-## Actividad 3 - Parqueadero
+## Actividad 3 - Parqueadero - Resolución de problemas usando herencia
