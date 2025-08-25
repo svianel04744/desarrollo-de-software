@@ -257,10 +257,12 @@ public class CalculadoraImpuestosView extends JFrame {
 		
 		// Reglas
 		String reglas = "Reglas:\n";
+		reglas += " - El impuesto básico es del 10% del valor del vehículo.\n";
+		reglas += " - Impuesto minimo: $ 50.000\n";
 		reglas += " - Antiguedad:\n";
-		reglas += "     menor o igual a 5 años: -5%\n";
-		reglas += "     mayores a 10 años: +10%\n";
-		reglas += "     mayores a 20 años: +15%\n";
+		reglas += "     Menor a 3 años: -5%\n";
+		reglas += "     Mayores a 10 años: +10%\n";
+		reglas += "     Mayores a 20 años: +15%\n";
 		reglas += " - Cilindraje:\n";
 		reglas += "     Menor a 1200: -10%\n";
 		reglas += "     Mayor a 2000: +10%\n";
@@ -269,9 +271,6 @@ public class CalculadoraImpuestosView extends JFrame {
 		reglas += "     Hibridos: -25%\n";
 		reglas += "     Electricos: -50%\n";
 		reglas += " - Transporte publico: -10%\n";
-		reglas += "\n";
-		reglas += "\n";
-		reglas += "Impuesto minimo: $ 50.000";
 		
 		mensajesLabel.setText(reglas);
 	}
